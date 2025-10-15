@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Puzzle-Piece CO. LLC</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <div class="bg-fixed" aria-hidden="true"></div>
+  <header class="container header">
+    <img src="assets/logo.png" alt="Puzzle-Piece CO. LLC logo" class="logo" />
+    <nav class="nav" aria-label="Main navigation">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="home" class="hero">
+      <h1 class="h1">Puzzle-Piece CO. LLC</h1>
+      <p class="lead">Moving made precise — one piece at a time.</p>
+    </section>
+
+    <section id="about" class="section">
+      <div class="card">
+        <h2>About Us</h2>
+        <p>We are Puzzle-Piece CO. LLC, a professional moving company focused on reliable, careful, and efficient moves.</p>
+      </div>
+    </section>
+
+    <section id="services" class="section">
+      <div class="card">
+        <h2>Services</h2>
+        <ul>
+          <li>Residential moving</li>
+          <li>Commercial moving</li>
+          <li>Packing & unpacking</li>
+          <li>Local & long-distance</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="card">
+        <h2>Contact</h2>
+        <p>Phone: <a href="tel:(440) 317-0305">(440) 317-0305</a><br>Email: <a href="mailto:movingpiecebypiece@gmail.com">movingpiecebypiece@gmail.com</a></p>
+        <form class="contact-form" action="https://formspree.io/f/myznbkyb" method="POST" novalidate>
+          <label for="name">Name</label>
+          <input id="name" name="name" required placeholder="Your name" />
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" required placeholder="you@example.com" />
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" required placeholder="How can we help?"></textarea>
+          <!-- honeypot to reduce spam -->
+          <input type="text" name="_gotcha" style="display:none" />
+          <button type="submit" class="btn">Send</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="container footer">
+    <small>© Puzzle-Piece CO. LLC — <a href="mailto:movingpiecebypiece@gmail.com">movingpiecebypiece@gmail.com</a> — (440) 317-0305</small>
+  </footer>
+</body>
+</html>
