@@ -13,7 +13,7 @@ Landing page for Puzzle-Piece CO. LLC (moving company). Colors: Gold (#D4AF37) a
 - `README.md` — this file
 
 ## Contact
-- Phone: (440) 317-0305
+- Phone: (440) 317-0503
 - Email: movingpiecebypiece@gmail.com
 - Contact form uses Formspree (already configured in the form action).
 
