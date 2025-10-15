@@ -22,3 +22,4 @@ Landing page for Puzzle-Piece CO. LLC (moving company). Colors: Gold (#D4AF37) a
 2. Upload all files from the unzipped package to the repository root (or `gh-pages` branch if you prefer).
 3. Go to **Settings → Pages → Source → Branch: main → Folder: root**.
 4. After a minute your site will be visible at `https://<username>.github.io/<repo>/`.
+
