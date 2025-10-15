@@ -64,10 +64,10 @@ To deploy this site using GitHub Pages:
 
 ---
 
-## 🌐 (Optional) Live Demo
+## 🌐 Live Demo
 
-<!-- If you have deployed the site, add your link below: -->
-<!-- [View the live site](https://<your-username>.github.io/<your-repo>/) -->
+- [Official Site (short link)](https://bit.ly/puzzlepiececo)
+- [Full GitHub Pages URL](https://movingpiecebypiece-commits.github.io/Puzzle-Piece/)
 
 ---
 
